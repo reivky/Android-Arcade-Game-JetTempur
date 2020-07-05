@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jet Tempur</string>
+    <string name="title_activity_main_menu">Jet Tempur</string>
+    <string name="about">Jet Tempur :\n \nGame ini tentang tembak-tembakan jet tempur. Tembak musuh yang ada didepanmu supaya tidak menabrakmu. Goyangkan hp ke kanan dan ke kiri untuk berbelok \n\nDeveloped by : Reivky \ngithub.com/reivky</string>
+</resources>
